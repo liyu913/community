@@ -2,7 +2,7 @@
 
 [English](README.md) | [简体中文](README_cn.md)
 
-Welcome to the Community repository.
+Welcome to the Community repository.ceshibianji
 
 This repository is at its initial setup stage. These bilingual README files provide a starting point for documenting the project's purpose, resources, and contribution process as it develops.
 
